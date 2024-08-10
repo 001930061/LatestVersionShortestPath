@@ -1,0 +1,111 @@
+AddressName,Latitude,Longitude,GridRow,GridColumn,Type
+Rivian-Tenth Ave & W 15th St,40.742784,-74.00773322,0,0,garage
+Chelsea Market-Tenth Ave & W 16th St,40.74342945,-74.00732038,0,1,normal
+Artichoke Basille's Pizza-Tenth Ave & W 17th St,40.74404281,-74.00680508,0,2,normal
+Chelsea Square Market-Tenth Ave & W 18th St,40.74462282,-74.00636853,0,3,normal
+Urbana Caf�� and Gallery-Tenth Ave & W 19th St,40.74521204,-74.00596014,0,4,normal
+The High Line Hotel-Tenth Ave & W 20th St,40.74580153,-74.00553669,0,5,normal
+Guardian Angel Worship Site-Tenth Ave & W 21th St,40.74638648,-74.00510695,0,6,normal
+Clement Clarke Moore Park-Tenth Ave & W 22nd St,40.74700101,-74.00463867,0,7,normal
+CVS-Tenth Ave & W 23th St,40.74770197,-74.00417458,0,8,normal
+Manhattan Car Wash-Tenth Ave & W 24th St,40.74835925,-74.00373751,0,9,normal
+Joe's Auto General Repair-Tenth Ave & W 25th St,40.74898318,-74.00324221,0,10,pickup
+Starbucks Reserve Roastery-Ninth Ave & W 15th St,40.74166452,-74.00494922,1,0,normal
+Tao Downtown-Ninth Ave & W 16th St,40.742259,-74.00441882,1,1,normal
+Alaska Food Market-Ninth Ave & W 17th St,40.7428825,-74.0040128,1,2,normal
+Bathtub Gin-Ninth Ave & W 18th St,40.7434541,-74.00357572,1,3,dropoff
+Gotham Pizza-Ninth Ave & W 19th St,40.74405305,-74.00317474,1,4,normal
+Cushman Row-Ninth Ave & W 20th St,40.7446332,-74.00274126,1,5,normal
+Dashing diva Chelsea-Ninth Ave & W 21st St,40.7452113,-74.00230932,1,6,pickup
+Chelsea Frame-Ninth Ave & W 22nd St,40.74581262,-74.00186273,1,7,normal
+Chelsea Square Restaurant-Ninth Ave & W 23th St,40.74650805,-74.00135961,1,8,normal
+Gristedes-Ninth Ave & W 24th St,40.74718234,-74.00090627,1,9,dropoff
+Empire Dell-Ninth Ave & W 25th St,40.74776307,-74.00041627,1,10,normal
+Google Headquarters-Eighth Ave & W 15th St,40.74043791,-74.00199351,2,0,normal
+Bank of America-Eighth Ave & W 16th St,40.74106329,-74.00150901,2,1,normal
+Liberty High School Academy for Newcommers-Eighth Ave & W 17th St,40.74163602,-74.00112993,2,2,pickup
+Citipups-Eighth Ave & W 18th St,40.7422264,-74.00071822,2,3,normal
+AT&T-Eighth Ave & W 19th St,40.7428173,-74.00029113,2,4,normal
+The Salvation Army Thrift Store-Eighth Ave & W 20th St,40.74339003,-73.99984005,2,5,normal
+Eighth Ave & W 21st St,40.74396276,-73.99938897,2,6,normal
+Barracude Lounge-Eighth Ave & W 22nd St,40.74459004,-73.99896187,2,7,normal
+Mount Sinal Doctors-Eighth Ave & W 23th St,40.74527185,-73.99851078,2,8,normal
+Brookly Bagel & Coffee Company-Eighth Ave & W 24th St,40.74591731,-73.99803568,2,9,normal
+Blink Fitness-Eighth Ave & W 25th St,40.74659251,-73.997567,2,10,normal
+Westville-Seventh Ave & W 15th St,40.73920952,-73.99919639,3,0,normal
+Winston Preparatory School-Seventh Ave & W 16th St,40.73985498,-73.99872134,3,1,dropoff
+Williams Sonoma-Seventh Ave & W 17th St,40.74044589,-73.99829427,3,2,normal
+The UPS Store-Seventh Ave & W 18th St,40.74100044,-73.9978672,3,3,normal
+Elmo-Seventh Ave & W 19th St,40.74162772,-73.99744013,3,4,normal
+Bar Volce-Seventh Ave & W 20th St,40.74220043,-73.99701305,3,5,normal
+Kona Coffee Roasters - Chelsea-Seventh Ave & W 21st St,40.74277316,-73.99658597,3,6,normal
+QQ Nails & Spa-Seventh Ave & W 22nd St,40.74341862,-73.99611089,3,7,normal
+Gotham Comedy Club-Seventh Ave & W 23th St,40.74409925,-73.99564098,3,8,normal
+The High School of Fashion Industries-Seventh Ave & W 24th St,40.74474471,-73.99514189,3,9,normal
+Whole Foods Market-Seventh Ave & W 25th St,40.74533561,-73.99471479,3,10,normal
+Lenox Hill Radiology-Sixth Ave & W 15th St,40.7380195,-73.99635406,4,0,normal
+Dave's-Sixth Ave & W 16th St,40.73864678,-73.99587902,4,1,normal
+Sally Beauty-Sixth Ave & W 17th St,40.73923768,-73.99545196,4,2,normal
+TJ Maxx-Sixth Ave & W 18th St,40.73982859,-73.9950009,4,3,normal
+Mens Warehouse-Sixth Ave & W 19th St,40.7404195,-73.99459783,4,4,normal
+Jue Lan Club-Sixth Ave & W 20th St,40.74101041,-73.99419476,4,5,normal
+Doux Supper Club-Sixth Ave & W 21st St,40.7416195,-73.99371969,4,6,normal
+Blue Mercury-Sixth Ave & W 22nd St,40.74221917,-73.99330311,4,7,normal
+Burlington-Sixth Ave & W 23th St,40.74287027,-73.99275316,4,8,normal
+MoneyGram-Sixth Ave & W 24th St,40.74357027,-73.99232607,4,9,normal
+Fairway Market-Sixth Ave & W 25th St,40.74410664,-73.99182699,4,10,normal
+Warby Parker-Fifth Ave & W 15th St,40.73668712,-73.99311179,5,0,normal
+Bandier-Fifth Ave & W 16th St,40.7373134,-73.99263499,5,1,normal
+J Crew-Fifth Ave & W 17th St,40.73793667,-73.99224837,5,2,normal
+Athleta-Fifth Ave & W 18th St,40.73847754,-73.99183064,5,3,normal
+Sephora-Fifth Ave & W 19th St,40.73906845,-73.99137959,5,4,normal
+New Balance-Fifth Ave & W 20th St,40.73965936,-73.99092853,5,5,normal
+Club Monaco-Fifth Ave & W 21st St,40.74023209,-73.99054946,5,6,normal
+HOKA-Fifth Ave & W 22nd St,40.74085937,-73.9900504,5,7,normal
+LEGO Store-Fifth Ave & W 23th St,40.741523,-73.98959933,5,8,normal
+YETI-Fifth Ave & W 24th St,40.74215028,-73.98912426,5,9,normal
+Worth Square-Fifth Ave & W 25th St,40.74283209,-73.98872118,5,10,normal
+Starbucks-Park Ave S & E 15th St,40.73530583,-73.98984298,6,0,normal
+FIFTYLAN Union Square-Park Ave S & E 16th St,40.73591432,-73.98938864,6,1,normal
+Petco-Park Ave S & E 17th St,40.73650521,-73.98898559,6,2,normal
+Rothmans-Park Ave S & E 18th St,40.73707793,-73.98853455,6,3,normal
+Union Square Caf��-Park Ave S & E 19th St,40.73766884,-73.98808351,6,4,normal
+Barbounia-Park Ave S & E 20th St,40.73827794,-73.98768045,6,5,normal
+Blue Bottle Coffee-Park Ave S & E 21st St,40.73883248,-73.98720541,6,6,normal
+European Wax Center-Park Ave S & E 22nd St,40.73947794,-73.98675435,6,7,normal
+7-Eleven-Park Ave S & E 23th St,40.74010522,-73.98627929,6,8,normal
+CAVA-Park Ave S & E 24th St,40.74080675,-73.98579512,6,9,normal
+The Provident Loan Society-Park Ave S & E 25th St,40.7414475,-73.98534502,6,10,normal
+Paper Concepts-Third Ave & E 15th St,40.7339702,-73.98667656,7,0,normal
+Joe Jr Resturant-Third Ave & E 16th St,40.73459748,-73.98620154,7,1,normal
+Gramercy Kitchen-Third Ave & E 17th St,40.7351702,-73.98577451,7,2,normal
+5 Sense Deli-Third Ave & E 18th St,40.73574757,-73.98535336,7,3,normal
+Taqueria Gramercy-Third Ave & E 19th St,40.73635994,-73.98496069,7,4,normal
+Warshaw Hardware-Third Ave & E 20th St,40.73697045,-73.9845197,7,5,normal
+Cleo Spa and Salon-Third Ave & E 21st St,40.73750682,-73.98409265,7,6,normal
+Vintage Thrift-Third Ave & E 22nd St,40.73815228,-73.9836416,7,7,normal
+All in One Smoke Shop-Third Ave & E 23th St,40.73881592,-73.98316656,7,8,normal
+Classic Barbershop 3 NYC-Third Ave & E 24th St,40.73946138,-73.9826915,7,9,normal
+EVPassport-Third Ave & E 25th St,40.74007048,-73.98219245,7,10,normal
+Manhattan Comprehensive Night & Day High School-Second Ave & E 15th St,40.73302465,-73.98442902,8,0,normal
+Stuyvesant Square-Second Ave & E 16th St,40.73365193,-73.984002,8,1,normal
+NYU Langone Orthopedic Hospital-Second Ave & E 17th St,40.73422465,-73.98357498,8,2,normal
+NYC Thin Crust Pizza-Second Ave & E 18th St,40.73483375,-73.98314795,8,3,normal
+Gotham Animal Clinic-Second Ave & E 19th St,40.73540647,-73.98272091,8,4,normal
+Wholesome Organic Gourmet Market-Second Ave & E 20th St,40.73596102,-73.98226988,8,5,normal
+Citizen of Gramercy-Second Ave & E 21st St,40.7365883,-73.98184284,8,6,normal
+Club Pilates-Second Ave & E 22nd St,40.7371792,-73.98141579,8,7,normal
+Morton Williams Supermarkets-Second Ave & E 23th St,40.73784284,-73.98089276,8,8,normal
+Roma Pizza-Second Ave & E 24th St,40.73850648,-73.98041772,8,9,normal
+Empire Gourmet Deli-Second Ave & E 25th St,40.73917012,-73.97999066,8,10,normal
+Bread Story-First Ave & E 15th St,40.73203692,-73.98208838,9,0,normal
+Four Seasons Bodywork Center-First Ave & E 16th St,40.73266065,-73.98163221,9,1,normal
+Trek Bicycle-First Ave & E 17th St,40.73322781,-73.98118149,9,2,normal
+Verizon-First Ave & E 18th St,40.73380053,-73.98073047,9,3,normal
+Gracefully-First Ave & E 19th St,40.73442781,-73.98032744,9,4,normal
+Crystal Laundromat-First Ave & E 20th St,40.73500053,-73.9799244,9,5,normal
+Tel Bagels-First Ave & E 21th St,40.73559144,-73.97949737,9,6,normal
+Sona Nails-First Ave & E 22th St,40.73621872,-73.97904633,9,7,normal
+Chase Bank-First Ave & E 23th St,40.73684598,-73.9785713,9,8,normal
+Bluestone Center For Clinic-First Ave & E 24th St,40.73756416,-73.97807227,9,9,normal
+NYU Rory Mayers College of Nursing-First Ave & E 25th St,40.73813688,-73.97757323,9,10,normal
